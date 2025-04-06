@@ -1,12 +1,12 @@
-# 👋 Salut, je suis Soumaiya 
+# 👋 Hi, I'm Soumaiya
 
-Je suis passionnée par l'informatique 💻, le droit du numérique ⚖️ et la modélisation des systèmes. J'explore des domaines variés comme la cybersécurité 🔐, l'intelligence artificielle 🤖 et les enjeux juridiques liés à la technologie 🌐.
+I'm passionate about computer science 💻, digital law ⚖️, and system modeling. I explore various fields like cybersecurity 🔐, artificial intelligence 🤖, and the legal challenges related to technology 🌐.
 
-🎓 Mon objectif est d'intégrer un master en septembre 2025 pour approfondir mes compétences techniques et juridiques, en particulier dans le domaine du droit du numérique et de la cybersécurité ou encore de l'intelligence artificielle. 
+🎓 My goal is to pursue a master’s degree in September 2025 to deepen my technical and legal skills, particularly in digital law, cybersecurity, and artificial intelligence.
 
-Tu peux me contacter à : boughrara.soumaiya@gmail.com 📩
+You can reach me at: boughrara.soumaiya@gmail.com 📩
 
-« Les frontières entre le droit et l'informatique s'effacent au fur et à mesure que les technologies avancent, et c'est là que je trouve ma passion : allier rigueur juridique et innovation technologique. »
+_"The boundaries between law and computer science fade as technologies advance, and that's where I find my passion: combining legal rigor with technological innovation."_
 
 
 # 💻 Tech Stack:
